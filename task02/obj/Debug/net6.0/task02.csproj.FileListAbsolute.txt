@@ -1,0 +1,15 @@
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\obj\Debug\net6.0\task02.csproj.AssemblyReference.cache
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\obj\Debug\net6.0\task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\obj\Debug\net6.0\task02.AssemblyInfoInputs.cache
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\obj\Debug\net6.0\task02.AssemblyInfo.cs
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\obj\Debug\net6.0\task02.csproj.CoreCompileInputs.cache
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\bin\Debug\net6.0\task02.exe
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\bin\Debug\net6.0\task02.deps.json
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\bin\Debug\net6.0\task02.runtimeconfig.json
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\bin\Debug\net6.0\task02.dll
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\bin\Debug\net6.0\ref\task02.dll
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\bin\Debug\net6.0\task02.pdb
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\obj\Debug\net6.0\task02.dll
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\obj\Debug\net6.0\ref\task02.dll
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\obj\Debug\net6.0\task02.pdb
+C:\Users\Иван\OneDrive\Рабочий стол\HomeWork03\task02\obj\Debug\net6.0\task02.genruntimeconfig.cache
