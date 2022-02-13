@@ -1,31 +1,20 @@
 ﻿// Проверить истинность утверждения ¬(X ⋁ Y) = ¬X ⋀ ¬Y
-bool x = true;
-bool y = true;
-if (!(x || y) == (!x && !y))
-    Console.WriteLine($"Вар. 1 утверждение истино при {x, y}");
+bool x = true; 
+bool y = false; 
+ 
+bool x1 = true; 
+bool y1 = true; 
+ 
+bool x2 = false; 
+bool y2 = true; 
+ 
+bool x3 = false; 
+bool y3 = false; 
+ 
+if ((!(x||y) == (!x&&!y)) 
+&&(!(x1||y1) == (!x&&!y)) 
+&&(!(x2||y2) == (!x2&&!y2)) 
+&&(!(x3||y3) == (!x3&&!y3))) 
+Console.WriteLine("утверждение истина"); 
 else 
-    Console.WriteLine($"Вар. 1 утверждение не истинно при {x, y}");
-
-x = true;
-y = false;
-
-if (!(x || y) == (!x && !y))
-    Console.WriteLine($"Вар. 2 утверждение истино при {x, y}");
-    else 
-    Console.WriteLine($"Вар. 2 утверждение не истино при {x, y}");
-
-x = false;
-y = true;
-
-if (!(x || y) == (!x && !y))
-    Console.WriteLine($"Вар. 3 утверждение истино при {x, y}");
-    else 
-    Console.WriteLine($"Вар. 3 утверждение не истино при {x, y}");
-
-x = false;
-y = false;
-
-if (!(x || y) == (!x && !y))
-    Console.WriteLine($"Вар. 4 утверждение истино при {x, y}");
-    else 
-    Console.WriteLine($"Вар. 4 утверждение не истино при {x, y}");
+Console.WriteLine("утверждение ложь");
